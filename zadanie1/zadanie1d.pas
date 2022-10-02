@@ -1,3 +1,4 @@
+{ ZADANIE: https://szkopul.edu.pl/problemset/problem/VYKVdv984yra7FZWHFpzfy6j/site/?key=statement }
 program zadanie1d;
 
 const
